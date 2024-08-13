@@ -1,0 +1,26 @@
+.list-item {
+  text-align: center;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.image {
+  width: 50%;
+  border-radius: 10px;
+}
+
+.name {
+  color: #ffffff;
+  font-weight: bold;
+  margin: 10px;
+  font-size: 30px;
+}
+
+.desc {
+  color: #ffffff;
+  margin: 10px;
+}
